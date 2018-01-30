@@ -5,7 +5,7 @@
 composer require limingxinleo/x-http-rpc
 ~~~
 
-## 使用
+## 简单使用
 ~~~php
 <?php
 use Psr\Http\Message\ResponseInterface;
@@ -34,3 +34,7 @@ class TestClient extends Client
 
 $result = TestClient::getInstance()->testPost();
 ~~~
+
+## 复杂使用
+
+[x-http-rpc-demo](https://github.com/Aquarmini/x-http-rpc-demo)
