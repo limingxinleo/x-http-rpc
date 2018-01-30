@@ -1,6 +1,6 @@
 {
-    "name": "limingxinleo/x-swoole-rpc",
-    "description": "Rpc library for swoole",
+    "name": "limingxinleo/x-http-rpc",
+    "description": "Rpc library for GuzzleHttp",
     "type": "library",
     "license": "MIT",
     "authors": [
