@@ -1,5 +1,7 @@
 # Http RPC Library
 
+[![Build Status](https://travis-ci.org/limingxinleo/x-http-rpc.svg?branch=master)](https://travis-ci.org/limingxinleo/x-http-rpc)
+
 ## 安装
 ~~~
 composer require limingxinleo/x-http-rpc
