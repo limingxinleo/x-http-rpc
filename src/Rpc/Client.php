@@ -61,7 +61,7 @@ abstract class Client
         return $arguments;
     }
 
-    protected function handleResponse($method, $arguments, string $response)
+    protected function handleResponse($method, $arguments, $response)
     {
         return json_decode($response, true);
     }
